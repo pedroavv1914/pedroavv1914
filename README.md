@@ -1,17 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#47B300cd&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#2323ADcd&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Ribeiro;I'm+19+years+old;I'm+from+Jundiaí,+SP;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
+# 👩🏻‍💻 Pedro Ribeiro
 
+**`Desenvolvedor FullStack`**
 
-<div align="center">    
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedroavv1914&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Matheus Mesquita" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroavv1914&layout=compact&hide_border=true&title_color=ffffcd&text_color=ffff&bg_color=0d1117" />
-</div>
+Me chamo Pedro, tenho 19 anos e sou de Jundiaí - São Paulo. Atualmente, estou cursando Ciências da Computação na UNIANCHIETA. Sou apaixonado por tecnologia e neste perfil você encontrará meus melhores projetos e acompanhará minha evolução como programador.
 
-<br>
-
-<p align="center">
-<div align="center"> 
+<p align="left">
+<div> 
     <a href="https://www.instagram.com/_pedroavv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:pedroribeiro1136@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/pedro-ribeiro-a71300230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -104,10 +100,13 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<br/>
+<br/>
 
+### 📊 Estatísticas
 
-
-
-
-
-
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedroavv1914&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Pedro" width="400">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroavv1914&layout=compact&theme=radical" alt="Linguagens mais usadas" width="358">
+</div>
