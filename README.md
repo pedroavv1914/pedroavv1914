@@ -107,8 +107,7 @@ Me chamo Pedro, tenho 19 anos e sou de Jundiaí - São Paulo. Atualmente, estou 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="200"  
     src="https://github-readme-stats.vercel.app/api?username=pedroavv1914&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
