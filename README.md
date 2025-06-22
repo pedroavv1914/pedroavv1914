@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2323AD,100:58DB00&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58DB00,100:0AFFA3&height=120&section=header"/>
 
 <h1 align="center">👨🏻‍💻 Pedro Ribeiro</h1>
 <p align="center"><b>Desenvolvedor FullStack</b></p>
@@ -79,5 +79,5 @@ Olá! Sou Pedro, tenho 19 anos e moro em Jundiaí - SP. Atualmente, curso Ciênc
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58DB00,100:2323AD&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0AFFA3,100:58DB00&height=100&section=footer"/>
 </div>
