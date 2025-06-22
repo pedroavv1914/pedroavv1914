@@ -48,13 +48,25 @@ Olá! Sou Pedro, tenho 19 anos e moro em Jundiaí - SP. Atualmente, curso Ciênc
 
 ## 📊 Estatísticas GitHub
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pedroavv1914&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedroavv1914&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=pedroavv1914&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroavv1914&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pedroavv1914&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroavv1914&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroavv1914&theme=radical&hide_border=true" height="180" alt="Contribution Graph"/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroavv1914&theme=radical&hide_border=true" width="98%" alt="Contribution Graph"/>
+</div>
 
 ---
 
