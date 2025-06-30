@@ -59,10 +59,6 @@ Olá! Sou Pedro, tenho 19 anos e moro em Jundiaí - SP. Atualmente, curso Ciênc
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroavv1914&theme=radical&hide_border=true" width="98%" alt="Contribution Graph"/>
-</div>
-
 ---
 
 ## ✨ Principais Projetos
