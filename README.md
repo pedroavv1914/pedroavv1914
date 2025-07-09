@@ -61,10 +61,10 @@ Olá! Sou Pedro, tenho 19 anos e moro em Jundiaí - SP. Atualmente, curso Ciênc
 
 ---
 
-## ✨ Principais Projetos
+## ✨ Alguns Projetos
 
-- [**GitHub Finder**](https://github-finder-pearl-mu.vercel.app/) &nbsp;:mag_right: &nbsp; Buscador de usuários no GitHub usando React, TypeScript e Vite.
-- [**Portfólio Pessoal**](https://github.com/pedroavv1914/Projeto-Portifolio) &nbsp;:computer: &nbsp; Meu portfólio com animações e design moderno.
+- [**GitHub Finder**](https://github-finder-pearl-mu.vercel.app/) Buscador de usuários no GitHub usando React, TypeScript e Vite.
+- [**Portfólio Pessoal**](https://github.com/pedroavv1914/Projeto-Portifolio) Meu portfólio com animações e design moderno.
 - [Mais projetos no meu perfil!](https://github.com/pedroavv1914?tab=repositories)
 
 ---
