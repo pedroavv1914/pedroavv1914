@@ -1,5 +1,7 @@
+## 👨‍💻 Developer Profile
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF,0:6A5ACD&height=180&section=header&text=Pedro%20Ribeiro&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Fullstack%20Developer%20|%20Tech%20Enthusiast&descAlignY=51&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,100:3B82F6&height=180&section=header&text=Pedro%20Ribeiro&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Fullstack%20Developer%20|%20Tech%20Enthusiast&descAlignY=51&descSize=18"/>
 </div>
 
 <p align="center">
@@ -103,5 +105,10 @@ const pedro = {
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF,0:6A5ACD&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E40AF&height=120&section=footer"/>
+</div>
+
+<!-- Profile Visit Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pedroavv1914&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
