@@ -1,5 +1,3 @@
-## 👨‍💻 Developer Profile
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF,0:6A5ACD&height=180&section=header&text=Pedro%20Ribeiro&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Fullstack%20Developer%20|%20Tech%20Enthusiast&descAlignY=51&descSize=18"/>
 </div>
