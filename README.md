@@ -67,10 +67,6 @@ const pedro = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroavv1914&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedroavv1914&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
-</div>
-
 ## 🏆 Featured Projects
 
 <div align="center">
